@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">applamp</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_teste">teste</string>
+    <string name="title_activity_casa">casa</string>
+    <string name="ok">OK</string>
+    <string name="server">192.168.0.21:3000</string>
+</resources>

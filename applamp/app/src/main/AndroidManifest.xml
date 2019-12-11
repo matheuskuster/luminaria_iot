@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.applamp">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login"
+                  android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Parear" />
+        <activity android:name=".Apelido"
+                  android:label="Apelido" />
+
+        <activity android:name=".SenhaWifi"
+                  android:label="Senha WiFi" />
+        <activity android:name=".Wifi"
+                  android:label="Adicionar Luminaria" />
+        <activity android:name=".Notificacoes"
+                  android:label="Notificações"/>
+        <activity
+            android:name=".ContaActivity"
+            android:label="Conta">
+
+        </activity>
+        <activity android:name=".Funcoes"
+                  android:label="Painel de Controle" />
+        <activity
+            android:name=".Casa"
+            android:label="Home" />
+        <activity android:name=".Cadastro"
+                  android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
