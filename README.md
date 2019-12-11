@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/matheuskuster/luminaria_iot/master/android/applamp/app/src/main/res/mipmap-mdpi/coracao.png)
+
 # Luminária inteligente habilitadora de soluções de IoT
 
 Este trabalho tem como objetivo desenvolver um protótipo de luminárias inteligentes, visando benefícios à comunidade científica e social, principalmente para a população brasileira. O sistema tem como foco principal auxiliar indivíduos, melhorando relacionamentos entre diversos tipos de pessoas, para que a união destes não perca a força independente da distância em que estiverem. Além disso, as tecnologias empregadas na aplicação servirão de fonte para novas pesquisas em relação ao tratamento de transtornos psicológicos, por nunca terem sido utilizadas para este fim até então. Ademais, espera-se atribuir novas utilidades em relação a projetos similares.
