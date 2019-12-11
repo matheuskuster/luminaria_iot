@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/matheuskuster/luminaria_iot/master/android/applamp/app/src/main/res/mipmap-mdpi/coracao.png)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/matheuskuster/luminaria_iot/master/android/applamp/app/src/main/res/mipmap-mdpi/coracao.png" alt="logo" /></div>
 
 # Luminária inteligente habilitadora de soluções de IoT
 
